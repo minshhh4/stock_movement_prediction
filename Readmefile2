@@ -1,0 +1,28 @@
+#  Stock Movement Prediction
+
+Predicting future stock price direction using deep learning 
+and sentiment analysis on financial data.
+
+## Tech Stack
+- Python, TensorFlow, Keras
+- NLP for financial sentiment
+- Data preprocessing & feature engineering
+
+##  What It Does
+- Processes historical stock data
+- Applies LSTM/deep learning model for movement prediction
+- Classifies price as UP / DOWN for next trading window
+
+##  Results
+- Trained on [X] days of market data
+- Model accuracy: [add your number]%
+
+##  How to Run bash
+git clone https://github.com/minshhh4/stock_movement_prediction
+pip install -r requirements.txt
+python train.py
+
+
+👤 Author
+Minshu Vijay | [LinkedIn](https://linkedin.com/in/minshu-vijay) 
+| GSoC '24 | LeetCode 2000
